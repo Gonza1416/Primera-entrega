@@ -1,0 +1,9 @@
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\bin\Debug\netstandard2.0\BibliotecaDeClases.deps.json
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\bin\Debug\netstandard2.0\BibliotecaDeClases.dll
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\bin\Debug\netstandard2.0\BibliotecaDeClases.pdb
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.vbprojAssemblyReference.cache
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.vbproj.CoreCompileInputs.cache
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.AssemblyInfo.vb
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.dll
+C:\Users\Sharp\Desktop\UTU\ProyectoPRG\ProyectoERG\BibliotecaDeClases\obj\Debug\netstandard2.0\BibliotecaDeClases.pdb
